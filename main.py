@@ -85,8 +85,8 @@ COMPROBANTES = {
         "template": "plantilla3.jpeg",
         "output": "comprobante3_generado.png",
         "styles": {
-            "nombre": {"size": 27, "color": "#1b0b19", "pos": (-8000, 800)},
-            "telefono": {"size": 27, "color": "#1b0b19", "pos": (500, 897)},
+            "nombre": {"size": 27, "color": "#1b0b19", "pos": (-8000, 795)},
+            "telefono": {"size": 27, "color": "#1b0b19", "pos": (500, 895)},
             "valor1": {"size": 27, "color": "#1b0b19", "pos": (50, 845)},
             "fecha": {"size": 27, "color": "#1b0b19", "pos": (50, 970)},
         },
