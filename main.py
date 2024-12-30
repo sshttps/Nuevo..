@@ -428,7 +428,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         "/comprobante1 [Nombre], [Teléfono], [Valor] - Generar el primer comprobante.\n"
         "/comprobante2 [Nombre], [Teléfono], [Valor] - Generar el segundo comprobante.\n"
         "/comprobante3 [Nombre], [Teléfono], [Valor] - Generar el tercer comprobante.\n"
-        "/movimientos [Nombre], [Valor] - Generar un movimiento.\n\n"
+        "/movimientos ¡EN MANTENIMIENTO!.\n\n"
         "Nota: Asegúrate de escribir correctamente el formato."
     )
 
