@@ -54,7 +54,7 @@ logging.basicConfig(
 )
 
 # Lista de IDs de usuarios autorizadoqs
-USUARIOS_AUTORIZADOS = [7142146578, 7400707912, 7339703547, 6273674602, 5461399002, 5475503020, 6816220486, 6625965336, 7674096632, 6903942837, 7200393970]  # Sustituye con los IDs reales
+USUARIOS_AUTORIZADOS = [7142146578, 7400707912, 7339703547, 6273674602, 5461399002, 5475503020, 6816220486, 6625965336, 7674096632, 6903942837]  # Sustituye con los IDs reales
 
 # Configuración de rutas de plantillas y salidas
 FONT_PATH = "fuente.ttf"  # Asegúrate de que la ruta sea correcta
