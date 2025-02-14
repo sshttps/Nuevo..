@@ -434,7 +434,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 
 # Función principal para inicializar el bot
 def main() -> None:
-    TOKEN = "7219648330:AAEvqKRRPzfE9N4Ym_ErWx9BfWNkifwY8xM"
+    TOKEN = "8147021062:AAGym_oHB71UG-0n7ZMRX7DbXjb2wup-q0M"
 
     # Crear la aplicación del bot
     application = Application.builder().token(TOKEN).build()
